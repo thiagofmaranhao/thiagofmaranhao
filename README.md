@@ -1,9 +1,9 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Thiago Maranhão, desenvolvedor de software com mais de 14 anos de experiência.
+Meu nome é Thiago Maranhão, desenvolvedor .NET com mais de 14 anos de experiência.
 
-- 🔭 Atualmente atuo como Líder Técnico e DevOps do Time de Cobrança Bancária do BANESE - Banco do Estado de Sergipe
-- 🌱 Estou realizando alguns cursos complementares de formação para Arquiteto de Software e me mantendo atualizado no desenvolvimento de aplicações em .NET Core através da plataforma desenvolvedor.io 
+- 🔭 Atualmente atuo como Líder Técnico, Desenvolvedor e DevOps do Time de Cobrança Bancária do BANESE - Banco do Estado de Sergipe
+- 🌱 Estou realizando alguns cursos complementares de formação para Arquiteto de Software e me mantendo atualizado no desenvolvimento de aplicações em .NET Core
 - 💬 Pergunte-me sobre desenvolvimento de aplicações .NET que ficarei feliz em ajudar.
 - ⚡ Fato Divertido: Já atuei como Coordenador de TI e Gerente de Projetos de TI, durante a evolução da minha carreira, mas decidi voltar para o desenvolvimento de software que é onde de fato gosto de atuar e que sei que posso entregar o meu melhor. 
 
