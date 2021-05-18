@@ -1,11 +1,11 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Thiago Maranhão, desenvolvedor .NET com mais de 14 anos de experiência.
+Meu nome é Thiago Maranhão, Arquiteto de Software com mais de 15 anos de experiência no mercado de TI, tendo atuado em diversos papéis ao longo da carreira, como Desenvolvedor, Líder Técnico, Coordenador de TI e Gerente de Projetos.
 
-- 🔭 Atualmente atuo como Líder Técnico, Desenvolvedor e DevOps do Time de Cobrança Bancária do BANESE - Banco do Estado de Sergipe
-- 🌱 Estou realizando alguns cursos complementares de formação para Arquiteto de Software e me mantendo atualizado no desenvolvimento de aplicações em .NET Core
-- 💬 Pergunte-me sobre desenvolvimento de aplicações .NET que ficarei feliz em ajudar.
-- ⚡ Fato Divertido: Já atuei como Coordenador de TI e Gerente de Projetos de TI, durante a evolução da minha carreira, mas decidi voltar para o desenvolvimento de software que é onde de fato gosto de atuar e que sei que posso entregar o meu melhor. 
+- 🔭 Atualmente atuo como Arquiteto de Software no BANESE - Banco do Estado de Sergipe
+- 🌱 Recentemente tenho dedicado meus estudos em Flutter, Data Science e DevOps, atuando em projetos pessoais e da comunidade
+- 💬 Pergunte-me sobre desenvolvimento de aplicações .NET, Flutter, Data Science e DevOps que ficarei feliz em ajudar ou aprender.
+- ⚡ Fato Divertido: Nas horas vagas curto uma boa cerveja, um bom samba, aquele futebol maroto e pratico corrida de rua para compensar as calorias adquiridas nas horas vagas :). 
 
 <!--
 **thiagofmaranhao/thiagofmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
