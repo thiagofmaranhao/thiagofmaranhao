@@ -1,23 +1,25 @@
-### Olá pessoal, sejam bem vindos ao meu GitHub 👋
+## Opa...eu sou o Thiago Maranhão, desenvolvedor de software!
+<div align="center">
+  <a href="https://github.com/thiagofmaranhao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofmaranhao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofmaranhao&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Meu nome é Thiago Maranhão, Desenvolvedor de Software Sênior, com mais de 15 anos de experiência no mercado de TI, tendo atuado em diversos papéis ao longo da carreira, como Desenvolvedor, Líder Técnico, Coordenador de TI e Gerente de Projetos.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maranhao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Maranhao-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Maranhao-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Maranhao-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Maranhao-JetBrains" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" alt="Maranhao-Gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Maranhao-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Maranhao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  
+</div>
 
-- 🔭 Atualmente atuo como Desenvolvedor de Software na TAG - IMF e estou cursando o MBA em Engenharia de Software da FIAP
-- 🌱 Recentemente tenho dedicado meus estudos em GCP, .NET Core, Arquitetura e Engenharia de Software
-- 💬 Pergunte-me sobre desenvolvimento de aplicações .NET, Arquitetura e Engenharia de Software que ficarei feliz em ajudar ou aprender.
-- ⚡ Fato Divertido: Nas horas vagas curto uma boa cerveja, um bom samba, aquele futebol maroto e pratico corrida de rua para compensar as calorias adquiridas nas horas vagas :). 
-
-<!--
-**thiagofmaranhao/thiagofmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+ 
+<div> 
+  <a href = "mailto:thiagofmaranhao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagofmaranhao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
